@@ -31,12 +31,12 @@ This project uses only basic Python concepts like `print()`, `input()`, variable
 3. Open a terminal or command prompt
 4. Run the file using:
 
-```bash
+
 python main.py
 
 🖥️ Sample Output
 You can view the sample program output below:
 
 📸 Screenshot
-![](Project1/main/image.png)
+![](image.png)
 ℹ️ The memory addresses shown will change every time the program runs. This is normal.
