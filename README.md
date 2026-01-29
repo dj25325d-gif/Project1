@@ -38,5 +38,5 @@ python main.py
 You can view the sample program output below:
 
 📸 Screenshot
-![](image.png)
+![](Project1/main/image.png)
 ℹ️ The memory addresses shown will change every time the program runs. This is normal.
